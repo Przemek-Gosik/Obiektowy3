@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1638834635 source:c:\users\preme\desktop\laboratorium4_pg\main.cpp
+	<iostream>
+	<random>
+	<deque>
+	<ctime>
+	<algorithm>
+
